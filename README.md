@@ -1,4 +1,4 @@
-# 🌊 Delta Executor - FREE Ultimate ROBLOX Scripting Tool 🌊
+# 🌊 Delta Executor 🌊
 **Elevate your ROBLOX experience with limitless scripting power!** ⚡
 
 ![Delta Executor Preview](/assets/Delta.gif) <!-- Add your image link here -->
